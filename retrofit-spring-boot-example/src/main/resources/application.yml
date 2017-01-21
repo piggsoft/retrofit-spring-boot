@@ -1,0 +1,8 @@
+retrofit:
+  items:
+    - name: jac
+      baseUrl: http://autodev.openspeech.cn/jac/v1/
+      converter: jackson
+    - name: github
+      baseUrl: http://api.github.com/
+      converter: jackson

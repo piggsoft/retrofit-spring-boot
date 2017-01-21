@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.piggsoft.retrofit.spring.boot.autoconfigue.RetrofitAutoConfiguration
